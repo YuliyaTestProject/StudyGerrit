@@ -1,4 +1,4 @@
 package Portal;
 
-public class BasePage {
+public abstarct class BasePage {
 }
